@@ -138,7 +138,7 @@
     }
 
     header{
-      background-image:url("/Users/USUARIO/Desktop/Final/imagenes/headermovil.jpg"); /* amarillo */
+      background-image:url("../imagenes/headermovil.jpg"); /* amarillo */
       background-size: cover;
       overflow: hidden;
       
@@ -149,7 +149,7 @@
   /* Tablet */
   @media (min-width: 768px) and (max-width: 1023px) {
     header{
-      background-image:url("/Users/USUARIO/Desktop/Final/imagenes/headertablet.jpg"); /* amarillo */
+      background-image:url("../imagenes/headertablet.jpg"); /* amarillo */
       background-size: cover;
       overflow: hidden;
       
@@ -178,7 +178,7 @@
   /* Ordenador */
   @media (min-width: 1024px) {
    header{
-    background-image:url("/Users/USUARIO/Desktop/Final/imagenes/headerordenador.jpg"); /* amarillo */
+    background-image:url("../imagenes/headerordenador.jpg"); /* amarillo */
     background-size: cover;
     overflow: hidden;
     
